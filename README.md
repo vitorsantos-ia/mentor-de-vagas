@@ -38,7 +38,7 @@ Sem a extensão do Chrome a skill ainda funciona para mentoria, busca e currícu
 ### Opção B — como plugin (Claude Code / aba Code do aplicativo)
 
 ```
-/plugin marketplace add <usuario-do-github>/mentor-de-vagas
+/plugin marketplace add vitorsantos-ia/mentor-de-vagas
 /plugin install mentor-de-vagas@mentor-de-vagas
 ```
 
