@@ -1,0 +1,13 @@
+{
+  "name": "mentor-de-vagas",
+  "owner": {
+    "name": "Vitor Santos"
+  },
+  "plugins": [
+    {
+      "name": "mentor-de-vagas",
+      "source": "./",
+      "description": "Mentor de carreira para o mercado brasileiro: mentoria de RH, direcionamento de vagas, busca diária, currículo ATS por vaga e ajuda nas candidaturas."
+    }
+  ]
+}

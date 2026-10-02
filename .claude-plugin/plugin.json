@@ -1,0 +1,10 @@
+{
+  "name": "mentor-de-vagas",
+  "description": "Mentor de carreira para o mercado brasileiro: mentoria de RH, direcionamento de vagas, busca diária, currículo ATS por vaga e ajuda nas candidaturas.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vitor Santos"
+  },
+  "license": "MIT",
+  "keywords": ["vagas", "emprego", "curriculo", "ats", "carreira", "trainee"]
+}

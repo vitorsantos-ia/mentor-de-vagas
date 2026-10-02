@@ -1,0 +1,10 @@
+# Dados pessoais de quem usa a skill — nunca devem ir para o repositório
+perfil.md
+vagas.csv
+curriculos/
+*.docx
+*.pdf
+
+# Rascunhos de teste da skill
+*-workspace/
+dist/
